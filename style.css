@@ -79,14 +79,12 @@ a {
   color: black;
   margin-right: 20px;
   transition: font-size 5s;
-  transition: background-color 1s;
+  transition: 1s;
 }
 
 a:hover {
   color: white;
-  background-color: gray;
   border-radius: 10px;
-  font-size: 20px;
 }
 
 p {
